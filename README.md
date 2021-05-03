@@ -1,7 +1,3 @@
-# Welcome-to-Gradient-Notebooks
-A quick how-to guide on using Gradient Notebooks. An ML Showcase project from Paperspace Gradient.
-
-
 <p align="center">
     <br>
     <img src="https://s3.amazonaws.com/ps.public.resources/ml-showcase/ml-showcase-header.png" width="400"/>
